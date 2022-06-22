@@ -1,6 +1,6 @@
-# wearable
+# Showing notificaiton in flutter 
 
-A new Flutter project.
+This app display notification using awesome_notification dependencies while hitting the any button in my case I had only made one button. If the user hit the button then notification comes out with launcher
 
 ## Getting Started
 
